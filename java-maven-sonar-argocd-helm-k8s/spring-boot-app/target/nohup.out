@@ -1,0 +1,60 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.4.RELEASE)
+
+2023-10-10 07:25:00.161  INFO 3379 --- [           main] com.abhishek.StartApplication            : Starting StartApplication v1.0 on ip-172-31-37-245 with PID 3379 (/home/ubuntu/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/spring-boot-app/target/spring-boot-web.jar started by ubuntu in /home/ubuntu/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/spring-boot-app/target)
+2023-10-10 07:25:00.168  INFO 3379 --- [           main] com.abhishek.StartApplication            : No active profile set, falling back to default profiles: default
+2023-10-10 07:25:02.669  INFO 3379 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-10 07:25:02.689  INFO 3379 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-10 07:25:02.695  INFO 3379 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2023-10-10 07:25:02.845  INFO 3379 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-10 07:25:02.845  INFO 3379 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2535 ms
+2023-10-10 07:25:04.124  INFO 3379 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-10 07:25:04.300  INFO 3379 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-10-10 07:25:04.584  INFO 3379 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-10 07:25:04.596  INFO 3379 --- [           main] com.abhishek.StartApplication            : Started StartApplication in 5.529 seconds (JVM running for 6.532)
+2023-10-10 07:26:30.194  INFO 3379 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.4.RELEASE)
+
+2023-10-10 07:26:38.075  INFO 3412 --- [           main] com.abhishek.StartApplication            : Starting StartApplication v1.0 on ip-172-31-37-245 with PID 3412 (/home/ubuntu/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/spring-boot-app/target/spring-boot-web.jar started by ubuntu in /home/ubuntu/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/spring-boot-app/target)
+2023-10-10 07:26:38.085  INFO 3412 --- [           main] com.abhishek.StartApplication            : No active profile set, falling back to default profiles: default
+2023-10-10 07:26:40.557  INFO 3412 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-10 07:26:40.579  INFO 3412 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-10 07:26:40.579  INFO 3412 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2023-10-10 07:26:40.726  INFO 3412 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-10 07:26:40.726  INFO 3412 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2503 ms
+2023-10-10 07:26:41.958  INFO 3412 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-10 07:26:42.126  INFO 3412 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-10-10 07:26:42.403  INFO 3412 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-10 07:26:42.413  INFO 3412 --- [           main] com.abhishek.StartApplication            : Started StartApplication in 5.39 seconds (JVM running for 6.362)
+2023-10-10 07:26:44.477  INFO 3412 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-10 07:26:44.477  INFO 3412 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-10-10 07:26:44.495  INFO 3412 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2023-10-10 08:57:58.810  INFO 3412 --- [nio-8080-exec-7] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:468) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:260) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.30.jar!/:9.0.30]
+	at java.base/java.lang.Thread.run(Thread.java:829) ~[na:na]
+
+2023-10-10 11:39:35.088  INFO 3412 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
